@@ -5,16 +5,7 @@
 - [Table Of Contents](#table-of-contents)
 - [List of Required Documents from you [From Belgium ]](#List of Required Documents from you [From Belgium ])
 - [List of Required Documents from you [From your Parents]](#List of Required Documents from you [From your Parents])
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-  - [Creating A Pull Request](#creating-a-pull-request)
-- [License](#license)
-- [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
+
 
 ## List of Required Documents from you [From Belgium ]
 - Invite Letter
