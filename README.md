@@ -8,8 +8,7 @@
 
 
 ## List of Required Documents from you [From Belgium ]
-- Invite Letter
-- Sample Letter - 
+- Invite Letter - [Sample Letter](https://github.com/simplysaivenkat/Belgium-Family-Visit-Visa/blob/main/From-Belgium/1-Invite%20Letter/Invite%20Letter.docx)
 - Passport copy- All your passport front and back
 - RP Card - All your RP Cards front and back
 - Pay Slip (6 Months)
