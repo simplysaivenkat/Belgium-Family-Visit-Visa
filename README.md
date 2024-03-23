@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 - [Table Of Contents](#table-of-contents)
-- [List of Required Documents from you [From Belgium ]](#List of Required Documents from you [From Belgium ])
+- [List of Required Documents from you [From Belgium ]](#List-of-Required-Documents-from-you)
 - [List of Required Documents from you [From your Parents]](#List of Required Documents from you [From your Parents])
 
 
