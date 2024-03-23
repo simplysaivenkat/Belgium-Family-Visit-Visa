@@ -14,9 +14,9 @@
 - Pay Slip (6 Months)
 - Bank Account statements (6 Months)
 - Birth Certificate - Your birth certificate and Your wife Birth certificate
-- Family Composition Certificate.You can get this from https://irisbox.irisnet.be/irisbox/ 
+- Family Composition Certificate.You can get this from [IRISBOX](https://irisbox.irisnet.be/irisbox/) 
 - Rent Agreement - Your Belgium House rent agreement 
-- Rent Registration Certificate - You can get this from https://eservices.minfin.fgov.be/myminfin-web/pages/public 
+- Rent Registration Certificate - [Minfin.be](https://eservices.minfin.fgov.be/myminfin-web/pages/public)
 
 ## List of Required Documents from you [From your Parents]
 - Cover Letter - [Sample Letter](https://github.com/simplysaivenkat/Belgium-Family-Visit-Visa/blob/main/From-Parents/1-Cover%20Letter/Cover%20Letter.docx)
